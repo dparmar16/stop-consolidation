@@ -1,0 +1,50 @@
+"Stop","Daily On","Daily Off","Daily Load","PM Peak On","PM Peak Off","PM Peak Load"
+"1AX-California A Express to 33rd & Geary Weekday",,,,,,
+"Davis St&Pine St W-MB","168","0","170","168","0","170"
+"Pine St&Montgomery St NE-NS","97","0","267","97","0","267"
+"California St&Laurel St NE-NS/BZ","0","0","267","0","0","267"
+"California St&Spruce St NE-NS/BZ","0","0","267","0","0","267"
+"California St&Maple St NW-FS/BZ","0","0","267","0","0","267"
+"California St&Cherry St NW-FS/BZ","0","0","267","0","0","267"
+"California St&Arguello Blvd NW-FS","0","0","267","0","0","267"
+"California St&4th Ave NE-NS/BZ","0","0","267","0","0","267"
+"California St&6th Ave NW-FS/BZ","0","0","267","0","0","267"
+"California St&8th Ave NW-FS","0","0","267","0","0","267"
+"California St&10th Ave NW-FS","0","0","267","0","0","267"
+"California St&12th Ave NE-NS/BZ","0","0","267","0","0","267"
+"California St&Park Presidio Blvd NW","4","43","228","4","43","228"
+"California St&16th Ave NE-NS/BZ","1","27","202","1","27","202"
+"California St&19th Ave NE-NS/BZ","1","50","153","1","50","153"
+"California St&22nd Ave NE-NS/BZ","9","34","128","9","34","128"
+"California St&25th Ave NE-NS","11","42","97","11","42","97"
+"California St&28th Ave NE-NS","1","37","61","1","37","61"
+"California St&30th Ave NW-FS/BZ","1","12","50","1","12","50"
+"32nd Ave&California St SW-FS/BZ","0","12","38","0","12","38"
+"32nd Ave&Clement St NW-NS","0","13","25","0","13","25"
+"33rd Ave&Clement St SW-FS/BZ","0","6","19","0","6","19"
+"33rd Ave&Geary Blvd NW-NS/BZ","0","0","19","0","0","19"
+"Geary Blvd&33rd Ave NW-FS/BZ","0","17","2","0","17","2"
+"Total Passenger Boardings ","293","293",,"293","293",
+"Subject to disclaimer at www.sfmta.com/tepdata",,,,,,
+,,,,,,
+,,,,,,
+"Stop","Daily On","Daily Off","Daily Load","AM Peak On","AM Peak Off","AM Peak Load"
+"1AX-California A Express to Davis & Market Weekday",,,,,,
+"33rd Ave&Geary Blvd NE-FS","43","0","44","43","0","44"
+"33rd Ave&Clement St SE-NS/BZ","21","0","65","21","0","65"
+"32nd Ave&Clement St NE-FS","25","0","90","25","0","90"
+"32nd Ave&California St SE-NS","18","0","108","18","0","108"
+"California St&30th Ave SE-FS","39","0","147","39","0","147"
+"California St&28th Ave SW-NS","46","0","193","46","0","193"
+"California St&25th Ave SW-NS/BZ","81","1","273","81","1","273"
+"California St&22nd Ave SW-NS","63","4","332","63","4","332"
+"California St&19th Ave SW-NS","56","1","387","56","1","387"
+"California St&16th Ave SW-NS/BZ","44","0","431","44","0","431"
+"California St&Park Presidio Blvd SW","22","9","444","22","9","444"
+"Bush St&Sansome St S-MB/FL","1","246","199","1","246","199"
+"Sansome St&Pine St SE-NS","3","58","144","3","58","144"
+"California St&Battery St SE-FS","0","63","81","0","63","81"
+"Davis St&Pine St W-MB","0","81","0","0","81","0"
+"Total Passenger Boardings ","462","463",,"462","463",
+"Subject to disclaimer at www.sfmta.com/tepdata",,,,,,
+

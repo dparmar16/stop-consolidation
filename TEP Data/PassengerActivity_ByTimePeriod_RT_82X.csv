@@ -1,0 +1,48 @@
+"Stop","Daily On","Daily Off","Daily Load","PM Peak On","PM Peak Off","PM Peak Load"
+"82X-Caltrain-Presidio Express Outbound Weekday",,,,,,
+"Letterman Dr&Tide Bldg N-MB","0","0","0","0","0","0"
+"Anza Blvd&Lincoln Blvd SE-NS","3","0","3","3","0","3"
+"Lincoln Blvd&Girard Rd SW-MI","0","0","3","0","0","3"
+"Letterman Dr&Tide Bldg S-MB","1","0","4","1","0","4"
+"Letterman Hospital S-FS","1","0","5","1","0","5"
+"Lombard St&Lyon St SE-FS","1","0","6","1","0","6"
+"Lombard St&Fillmore St SW-NS/BZ","0","1","5","0","1","5"
+"Van Ness Ave&Chestnut St NE-FS/BZ","1","0","6","1","0","6"
+"North Point St&Stockton St SW-NS","1","1","6","1","1","6"
+"Battery St&Greenwich St SW-FS","2","0","8","2","0","8"
+"Battery St&Filbert St SW-FS/BZ","5","1","12","5","1","12"
+"Battery St&Green St NW-NS","6","0","18","6","0","18"
+"Battery St&Broadway SW-FS/BZ","2","0","20","2","0","20"
+"Battery St&Jackson St NW-NS/BZ","1","0","21","1","0","21"
+"Clay St&Front St SE-FS/BZ","1","6","16","1","6","16"
+"Davis St&California St NW-NS/BZ","0","0","16","0","0","16"
+"Beale St&Mission St W-MB/BZ","4","8","12","4","8","12"
+"Beale St&Howard St S-FS","1","0","13","1","0","13"
+"4th St&Townsend St S-FS","0","13","0","0","13","0"
+"Total Passenger Boardings ","30","30",,"30","30",
+"Subject to disclaimer at www.sfmta.com/tepdata",,,,,,
+"Stop","Daily On","Daily Off","Daily Load","AM Peak On","AM Peak Off","AM Peak Load"
+"82X-Caltrain-Presidio Express to the Presidio Weekday",,,,,,
+"4th St & Townsend St E-MB/BZ","207","0","209","207","0","209"
+"Main St&Howard St E-NS/FL","1","30","180","1","30","180"
+"Main St&Market St NE-MB/BZ","2","40","142","2","40","142"
+"Drumm St&California St NE-FS/BZ","2","10","134","2","10","134"
+"Sacramento St&Davis St NE-NS/BZ","1","22","113","1","22","113"
+"Sacramento St&Battery St NW-FS/BZ","15","41","87","15","41","87"
+"Sansome St&Washington St NE-FS/BZ","4","9","82","4","9","82"
+"Sansome St&Pacific Ave NE-FS/BZ","1","8","75","1","8","75"
+"Sansome St&Vallejo St NE-FS/BZ","1","4","72","1","4","72"
+"Sansome St&Union St NE-FS","0","20","52","0","20","52"
+"Sansome St&Filbert St NE-FS/BZ","1","21","32","1","21","32"
+"Sansome St&Lombard St SE-NS/BZ","0","11","21","0","11","21"
+"North Point St&Stockton St NE-NS","0","5","16","0","5","16"
+"Van Ness Ave&Chestnut St NW-NS/BZ","1","1","16","1","1","16"
+"Lombard St&Fillmore St NE-NS/BZ","0","3","13","0","3","13"
+"Lombard St&Lyon St NE-NS/BZ","1","9","5","1","9","5"
+"Letterman Dr&Tide Bldg N-MB","0","0","5","0","0","5"
+"Lincoln Blvd&Halleck St E-NS","0","0","5","0","0","5"
+"Anza Blvd&Lincoln Blvd SE-NS","1","4","2","1","4","2"
+"Lombard St&Lyon St SE-FS","0","0","2","0","0","2"
+"Total Passenger Boardings ","238","238",,"238","238",
+"Subject to disclaimer at www.sfmta.com/tepdata",,,,,,
+

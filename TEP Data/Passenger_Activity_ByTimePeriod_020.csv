@@ -1,0 +1,54 @@
+"Stop","Daily On","Daily Off","Daily Load","AM Peak On","AM Peak Off","AM Peak Load","Midday On","Midday Off","Midday Load","School  On","School Off","School Load","PM Peak On","PM Peak Off","PM Peak Load"
+"20-Line to Howard & New Montgomery",,,,,,,,,,,,,,,
+"North Point St&Van Ness Ave SE-FS","108","0","146","20","0","29","48","0","53","38","0","62","2","0","2"
+"North Point St&Polk St SE-FS/BZ","25","0","171","8","0","37","10","0","63","6","0","68","1","0","3"
+"North Point St&Larkin St SW-NS/BZ","13","1","183","3","0","40","6","0","69","4","1","71","0","0","3"
+"North Point St&Hyde St SW-NS/BZ","26","1","208","12","0","52","8","1","76","5","0","76","1","0","4"
+"Columbus Ave&Bay St W-MB/BZ","22","11","219","3","4","51","7","4","79","11","3","84","1","0","5"
+"Columbus Ave&Francisco St SW-FS","47","3","263","12","0","63","20","0","99","13","3","94","2","0","7"
+"Columbus Ave&Taylor St S-FS/BZ","50","5","308","15","2","76","22","2","119","10","0","104","3","1","9"
+"Columbus Ave&Lombard St SW-FS/BZ","68","9","367","29","0","105","25","4","140","12","4","112","2","1","10"
+"Columbus Ave&Filbert St W-NS/BZ","63","13","417","20","1","124","31","9","162","11","3","120","1","0","11"
+"Columbus Ave&Union St NW-NS/BZ","1","0","418","0","0","124","0","0","162","1","0","121","0","0","11"
+"Union St&Columbus Ave S-MB/BZ","78","36","460","30","9","145","34","13","183","11","13","119","3","1","13"
+"Columbus Ave&Stockton St S-FS/BZ","71","155","376","27","18","154","29","68","144","13","65","67","2","4","11"
+"Columbus Ave&Broadway S-FS/BZ","34","39","371","4","4","154","19","21","142","8","13","62","3","1","13"
+"Columbus Ave&Jackson St SW-FS/BZ","13","15","369","0","2","152","8","7","143","5","5","62","0","1","12"
+"Clay St&Montgomery St SE-FS/BZ","17","51","335","4","21","135","7","20","130","5","8","59","1","2","11"
+"Clay St&Sansome St SE-FS/BZ","5","20","320","1","9","127","2","10","122","2","1","60","0","0","11"
+"Clay St&Front St SE-FS/BZ","3","49","274","2","19","110","1","23","100","0","5","55","0","2","9"
+"Davis St&California St NW-NS/BZ","2","95","181","1","34","77","1","34","67","0","23","32","0","4","5"
+"Beale St&Mission St W-MB/BZ","7","109","79","3","53","27","2","37","32","1","16","17","1","3","3"
+"Main St&Howard St E-NS/FL","0","29","22",,,,"0","17","14","0","11","6","0","1","2"
+"Howard St&New Montgomery St","0","7","21","0","6","21","0","1","0",,,,,,
+"Total Passenger Boardings ","653","648",,"194","182",,"280","271",,"156","174",,"23","21",
+"Subject to disclaimer at www.sfmta.com/tepdata"
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+"Stop","Daily On","Daily Off","Daily Load","Midday On","Midday Off","Midday Load","School  On","School Off","School Load"
+"20-line to Van Ness & North Point",,,,,,,,,
+"Main St&Howard St E-NS/FL","12","0","36","7","0","27","5","0","9"
+"Main St&Market St NE-MB/BZ","12","0","48","10","0","37","2","0","11"
+"Drumm St&California St NE-FS/BZ","25","0","73","17","0","54","8","0","19"
+"Sacramento St&Davis St NE-NS/BZ","33","3","103","25","3","76","8","0","27"
+"Sacramento St&Battery St NW-FS/BZ","17","4","116","11","3","84","6","1","32"
+"Sansome St&Sacramento St NE-FS/BZ","11","15","112","4","12","76","7","3","36"
+"Washington St&Sansome St NW-FS/BZ","2","5","109","2","3","75","0","2","34"
+"Columbus Ave&Washington St N","7","6","110","5","6","74","2","0","36"
+"Columbus Ave&Kearny St N-FS/BZ","11","9","112","8","6","76","3","3","36"
+"Columbus Ave&Broadway N-FS/BZ","14","6","120","9","6","79","5","0","41"
+"Columbus Ave&Green St E-NS/BZ","10","28","102","6","18","67","4","10","35"
+"Union St&Columbus Ave  NE-NS/BZ","2","9","95","2","6","63","0","3","32"
+"Columbus Ave&Union St NE-FS/BZ","29","20","104","19","12","70","10","8","34"
+"Columbus Ave&Mason St E-NS/BZ","4","6","102","3","4","69","1","2","33"
+"Columbus Ave&Chestnut St N-FS/BZ","2","17","87","2","10","61","0","7","26"
+"Columbus Ave&Francisco St N-FS","5","7","85","1","3","59","4","4","26"
+"Columbus Ave&North Point St E-MB","2","5","82","1","3","57","1","2","25"
+"North Point St&Hyde St NE-NS/BZ","3","7","78","3","4","56","0","3","22"
+"North Point St&Larkin St NE-NS/BZ","0","8","70","0","7","49","0","1","21"
+"North Point St&Polk St NW-FS/BZ","0","18","52","0","11","38","0","7","14"
+"Van Ness Ave&North Point St SW-FS","0","50","2","0","37","1","0","13","1"
+"Total Passenger Boardings ","201","223",,"135","154",,"66","69",
+"Subject to disclaimer at www.sfmta.com/tepdata"
+,,,,,,,,,
+
